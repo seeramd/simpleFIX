@@ -3,6 +3,8 @@ DBD::SQLite
 DBI
 Devel::Hide
 Devel::Leak::Module
+File::Tail
+IO
 Importer
 MIME::Charset
 Probe::Perl
